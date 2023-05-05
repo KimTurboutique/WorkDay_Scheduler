@@ -1,10 +1,10 @@
 # WorkDay_Scheduler
-This project is for Boot Camp Week 5 challenge
+This Work Day Scheduler was designed for Week 5 Bootcamp Challenge. It is designed to help the user organize their busy schedule by adding important events to this daily planner.
 
-This JavaScriot Game project was done for the Boot Camp Week 4 Challenge. I utilized my knowledge in Web API's and implemented Javascript logic, with the use of DOM Query Selectors, event listeners, etc.
+I implemented my knowledge of JavaScript, Day JS and Local Storage to add functionality to this webpage with a interactive UI.
 
 
-### Webpage URL: ()
+### Webpage URL: (https://kimturboutique.github.io/WorkDay_Scheduler/)
 
 ### Webpage screenshots:
 

@@ -7,8 +7,7 @@ I implemented my knowledge of JavaScript, Day JS and Local Storage to add functi
 ### Webpage URL: (https://kimturboutique.github.io/WorkDay_Scheduler/)
 
 ### Webpage screenshots:
-
-
+<img width="1435" alt="Screenshot 2023-05-06 at 12 41 28 AM" src="https://user-images.githubusercontent.com/127644189/236600360-f1cd1c7a-5bbc-4c5d-a875-5817d4019cb4.png">
 
 
 ### References and Tools are as follows:

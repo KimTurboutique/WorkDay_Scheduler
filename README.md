@@ -13,9 +13,11 @@ I implemented my knowledge of JavaScript, Day JS and Local Storage to add functi
 
 ### References and Tools are as follows:
 
-* []()
+* [String + Format](https://day.js.org/docs/en/parse/string-format)
 
 * [How to Display Dates and Times in JavaScript - Beginner's Tutorial](https://www.youtube.com/watch?v=50cDIUKlQ8g)
+
+* [Window: localStorage property](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 * VSC, Google Chrome Console.
 
